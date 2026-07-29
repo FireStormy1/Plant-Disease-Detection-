@@ -7,7 +7,7 @@ An end-to-end deep learning project that uses a Convolutional Neural Network (CN
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone (https://github.com/FireStormy1/Plant-Disease-Detection-)
 ```
 
 Navigate into the project folder:
